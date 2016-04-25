@@ -2,7 +2,7 @@
 
 ## Note: We recommend already knowing how to do this, it makes doing it much easier!
 
-### Running the Thing
+### Running The Thing
 1. Fork, clone, npm install
 2. `npm start`
 
