@@ -2,6 +2,12 @@
 
 ## Note: We recommend already knowing how to do this, it makes doing it much easier!
 
+### Running the Thing
+1. Fork, clone, npm install
+2. `npm start`
+
+
+### Creating The Thing
 1. Make directory, `git init`, `npm init -y`
 2. Change 'test' script to 'start' using this value
   ```json
