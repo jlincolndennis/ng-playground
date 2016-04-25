@@ -13,4 +13,7 @@
 4. Make an 'awesome' README and take notes.
 5. Just trust the process, I guess? You'll either get it or you won't. And if you don't, who cares? It's not your future, or anything!
 6. Add bootstrap CDN
-7. Add AngularJS CDN
+7. Add jQuery CDN
+8. Add AngularJS CDN
+9. add `ng-app` as attribute to html
+10. put `{{1+2}}` in to test
